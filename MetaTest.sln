@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaTest", "MetaTest\MetaTest.csproj", "{B6BE083E-52CA-4E9F-BE78-55A2D48D3799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaTestNUnit", "MetaTestNUnit\MetaTestNUnit.csproj", "{88CE36FA-3052-45B2-9F8F-7FF1EDD37A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BE083E-52CA-4E9F-BE78-55A2D48D3799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BE083E-52CA-4E9F-BE78-55A2D48D3799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BE083E-52CA-4E9F-BE78-55A2D48D3799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BE083E-52CA-4E9F-BE78-55A2D48D3799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CE36FA-3052-45B2-9F8F-7FF1EDD37A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CE36FA-3052-45B2-9F8F-7FF1EDD37A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CE36FA-3052-45B2-9F8F-7FF1EDD37A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CE36FA-3052-45B2-9F8F-7FF1EDD37A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7F870A-98F8-4353-A620-C4B265DCA456}
+	EndGlobalSection
+EndGlobal
